@@ -14,8 +14,8 @@ https://www.kaggle.com/unsdsn/world-happiness
 
 ## Constraints to keep in mind:
 
-Possible null values
-Repeating Columns/Values
+* Possible null values
+* Repeating Columns/Values
 
 ## Technologies:
 Jupyter Notebook
