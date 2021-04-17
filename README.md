@@ -26,5 +26,5 @@ Tableau
 Flask API
 Github Pages ---> Heroku
 
-Project Updates: In Progress
+# Project Updates: In Progress
 
