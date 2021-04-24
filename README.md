@@ -18,13 +18,13 @@ https://www.kaggle.com/unsdsn/world-happiness
 * Repeating Columns/Values
 
 ## Technologies:
-Jupyter Notebook
-Python
-HTML/CSS
-Excel: Pivot Tables
-Tableau
-Flask API
-Github Pages ---> Heroku
+* Jupyter Notebook
+* Python
+* HTML/CSS
+* Excel: Pivot Tables
+* Tableau
+* Flask API
+* Github Pages ---> Heroku
 
 # Project Updates: In Progress
 
